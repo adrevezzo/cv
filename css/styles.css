@@ -1,0 +1,17 @@
+h1,
+h3 {
+  color: #628E90;
+}
+
+body {
+  background-color: #F5EFE6;
+  color: #3C2317;
+}
+
+hr {
+  color: white;
+  border-style: dotted;
+  border-width: 8px 0 0 0;
+  height: 0;
+  width: 10%;
+}
